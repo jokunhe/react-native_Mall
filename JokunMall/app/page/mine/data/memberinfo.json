@@ -1,0 +1,19 @@
+{
+  "status_code": "0",
+  "result": {
+    "nick_name": "13416197095",
+    "memId": "d6b49478-ff7f-4d4f-bf6d-f3d943092307",
+    "balance": 0,
+    "sex": "0",
+    "phone": "13416197095",
+    "consume_coupon": "0",
+    "shoppingCoupon": "0",
+    "totalpoints": "100077.00000000",
+    "registertime": 1478530649000,
+    "consume_points": "0.0",
+    "user_id": "1gw_13416197095",
+    "order_percentage": "null%",
+    "pic_url": "http://meidui.oss-cn-shenzhen.aliyuncs.com/579576890cf2b47be55bc693/attachment/201610/1478513018126-5820517a6c0c4357338ee435.jpg"
+  },
+  "result_msg": "Success"
+}
