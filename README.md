@@ -18,7 +18,7 @@ import { post as $post, get as $get } from '../utils/NetUtils';
  * @param params Object 请求参数
  * @returns {*}
  */
-post('http://192.168.4.240:8097/member/front-user-center/v1/baseop/login',{
+post('#url',{
     user_id:'13728620010',
     pass_word : MD5('123456'),
 }).then((rs)=>{
@@ -33,7 +33,7 @@ post('http://192.168.4.240:8097/member/front-user-center/v1/baseop/login',{
  * @param params Object 请求参数
  * @returns {*}
  */
-get('http://192.168.4.240:8097/member/front-user-center/v1/baseop/XXXX',{
+get('#url',{
     firstParams:'123',
     secendParams :'456',
 }).then((rs)=>{
